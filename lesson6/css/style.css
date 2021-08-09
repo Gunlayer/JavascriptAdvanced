@@ -169,10 +169,3 @@ img {
     border: none;
     border-bottom: 2px solid #fafafa;
 }
-.cart-item {
-    display: flex;
-    align-items: center;
-}
-.cart-text {
-    margin: 0;
-}
